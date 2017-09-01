@@ -1,0 +1,128 @@
+python3 battleship.py 
+python3 battleship.py 
+python3 battleship.py 
+python3 battleship.py 
+python3 battleship.py 
+python3 battleship.py 
+python3 battleship.py 
+python3 battleship.py 
+python3 battleship.py 
+python3 battleship.py 
+python3 battleship.py 
+python3 battleship.py 
+python3 battleship.py 
+python3 battleship.py 
+python3 battleship.py 
+python3 battleship.py 
+python3 battleship.py
+python3 battleship.py
+python3 battleship.py
+python3 battleship.py
+python3 battleship.py
+python3 battleship.py
+python3 battleship.py
+cd ~
+ls
+vagrant up
+cd src/cs162-vm/
+vagrant up
+vagrant ssh
+./wc
+vagrant ss
+vagrant ssh
+vagrant ssh
+python3 ip.py
+vagrant ssh
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL
+./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL
+./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL
+./gpgpu 
+gdb ./gpgpu 
+gcc gpgpu.c -O0 -g -o gpgpu -l OpenCL
+gdb ./gpgpu 
+gcc gpgpu.c -O0 -g -o gpgpu -l OpenCL
+./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL
+./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && time ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && time ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && time ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && time ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && time ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && time ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && time ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+gcc gpgpu.c -O3 -o gpgpu -l OpenCL && ./gpgpu 
+cd ..
+mv hw1 hw1-1
+node api/gmail/google.js 
+cd ..
+cd cs162/code/personal/hw0/
